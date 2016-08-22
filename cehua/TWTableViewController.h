@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  TWTableViewController.h
 //  cehua
 //
 //  Created by 张璠 on 16/8/22.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface TWTableViewController : UITableViewController
 
 @end
-
